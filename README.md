@@ -1,5 +1,6 @@
 # Images author:
-Sheya (go check their artwork out and give it some love, is's amazing! [Twitter](https://twitter.com/Sukuroneko), [weibo](https://weibo.com/kisinSheya), [pixiv](https://www.pixiv.net/en/users/11764388))
+I did not ask for permission to use the artwork so for now resources directory is empty, but I will add them asap <br>
+* Sheya (go check their artwork out and give it some love, is's amazing! [Twitter](https://twitter.com/Sukuroneko), [weibo](https://weibo.com/kisinSheya), [pixiv](https://www.pixiv.net/en/users/11764388))
 # What is it?
 This is a simple demonstration of how you can embed any kind of file into a C executable
 # How to use it?
@@ -22,9 +23,9 @@ This is a simple demonstration of how you can embed any kind of file into a C ex
 # Support
 * platform: Linux 64bit works. did not test on 32bit, but should work. It may work on windows, but i did not test it.
 * compiler: gcc works. clang should work, I tested it somewhere in the middle of writing this. other compilers - as long as they support GNU assembler
-* language: I addesd c++ protection (`#ifdef __cplusplus: extern "C" { ...`) but did not test it.
+* language: I added c++ protection (`#ifdef __cplusplus: extern "C" { ...`) but did not test it.
 # Should I use headers from this repo in my project?
-if you work in production, absolutely no, just steal the idea and re-write it
-if you are coding to have fun, sure, go ahead.
+If you work in production, absolutely no, just steal the idea and re-write it. <br>
+If you are coding to have fun, sure, go ahead.
 # License
 Public Domain
