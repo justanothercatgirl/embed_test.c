@@ -1,5 +1,4 @@
 # Images author:
-I did not ask for permission to use the artwork so for now resources directory is empty, but I will add them asap <br>
 * Sheya (go check their artwork out and give it some love, is's amazing! [Twitter](https://twitter.com/Sukuroneko), [weibo](https://weibo.com/kisinSheya), [pixiv](https://www.pixiv.net/en/users/11764388))
 # What is it?
 This is a simple demonstration of how you can embed any kind of file into a C executable
